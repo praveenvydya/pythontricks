@@ -1,0 +1,9 @@
+
+*.log
+*.tmp
+
+/node_modules/
+/bin/
+/obj/
+/Lib/
+/Scripts/
